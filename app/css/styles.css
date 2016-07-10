@@ -1,0 +1,31 @@
+/* Put your css in here */
+body {
+  color: #000000;
+  font-size: 87.5%;
+  /* Base font size: 14px */
+  font-family: Georgia, Times, serif;
+  line-height: 1.429;
+  margin: 0 auto;
+  padding: 0;
+  text-align: left;
+  clear: both; }
+
+header {
+  text-align: center;
+  color: Blue;
+  padding: 20px; }
+
+.prescreen-input {
+  margin-left: 10px;
+  width: 200px; }
+
+.prescreen-button {
+  margin: 10px; }
+
+.prescreen-output {
+  margin: 10px;
+  color: green; }
+
+.prescreen-palindrome {
+  margin: 10px;
+  color: red; }
