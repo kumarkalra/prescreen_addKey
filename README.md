@@ -18,3 +18,10 @@ General Guidance
 
 At Dealer.com, we build applications people can use, so we hope you won't think of this as only a JavaScript exercise. Show us how you think this simple interface will present best to a user.
 Feel free to organize your code, or to use supporting libraries as you feel appropriate. Please be prepared to explain your decisions - we care about your reasons as much as your choices!
+
+## To Run the application
+git clone https://github.com/kumarkalra/prescreen_addKey.git
+
+npm install
+
+gulp watch
