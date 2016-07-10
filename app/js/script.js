@@ -1,4 +1,13 @@
 /**
+ * self invoking function to add eventlistener to button click
+ */
+ (function () {
+   document.getElementById("prescreen-button").onclick = function(){
+       parseTextArea();
+   };
+ })();
+
+/**
  * Called when calculate button is clicked.
  * @constructor
  */
