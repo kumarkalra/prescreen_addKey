@@ -22,7 +22,7 @@ var jsdoc = require('gulp-jsdoc3');
 var runSequence = require('run-sequence');
 
 gulp.task('hello', function() {
-  console.log('Hello Zell');
+  console.log('Hello Kumar');
 });
 
 

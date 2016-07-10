@@ -2,7 +2,7 @@
   "name": "prescreen",
   "version": "1.0.0",
   "description": "Sum count of keys in textarea using vanilla JS",
-  "main": "index.js",
+  "main": "prescreen.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
